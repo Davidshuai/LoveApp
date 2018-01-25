@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<widget id="A6974310059382" version="0.0.1">
+<widget id="A6061310578893" version="0.0.1">
   <name>biaobai</name>
   <description></description>
-  <author email="sys0721@163.com" href="http://www.apicloud.com">Shawn</author>
+  <author email="1161051904@qq.com" href="http://www.apicloud.com">Shawn</author>
   <content src="html/home.html"/>
   <preference name="pageBounce" value="false"/>
   <preference name="appBackground" value="rgba(0,0,0,0.0)"/>
